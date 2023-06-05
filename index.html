@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+  <link rel="stylesheet" href="estlilos.css">
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+  
+  <title>email</title>
+
+
+</head>
+<body>
+  <section>
+
+    <div class="table">
+
+      <div class="infos">
+
+        <h1>Stay updated!</h1>
+        <p>Join 60.000+ products managers receiving monthly updates on:</p>
+
+        <ul>
+          <li>Product discovery and building what matters</li>
+          <li>Measuring to ensure updates are a success</li>
+          <li>And moch more!</li>
+        </ul>
+
+        <div id="address">
+          <p id="email">Email address </p>
+          <p id="error">Valid email required</p>
+        </div>
+
+        <input type="text" id="texto" placeholder="Email@company.com" autocomplete="off">
+        <input type="button" id="enviar" value="Subscribe to monthly newslatter" onclick="enviar()">
+      </div>
+
+      <img src="./assets/images/illustration-sign-up-desktop.svg" alt="imagem" class="imagem">
+
+      <!--TELA SECUNDARIA-->
+      <div class="thankscont">
+        <img src="./assets/images/icon-success.svg" alt="success" id="success">
+        <h1 id="thanks">thanks for <br> subscribing!</h1>
+
+        <p id="psuccess"></p>
+
+        <input type="button" id="confirmar" value="Dismiss message" onclick="voltar()">
+      </div>
+      
+    </div>
+
+  </section>
+
+  <script src="main.js"></script>
+</body>
+</html>
