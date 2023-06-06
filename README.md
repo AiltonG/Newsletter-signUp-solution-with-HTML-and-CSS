@@ -16,5 +16,5 @@ Users should be able to:
 ##
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/newsletter-signup-solution-with-html-and-css-6yQpXB6a7Q](https://your-solution-url.com)
-- Live Site URL: [https://ailtong.github.io/Newsletter-signUp-solution-with-HTML-and-CSS/](https://your-live-site-url.com)
+- Solution URL: [https://your-solution-url.com](https://www.frontendmentor.io/solutions/newsletter-signup-solution-with-html-and-css-6yQpXB6a7Q)
+- Live Site URL: [https://your-live-site-url.com](https://ailtong.github.io/Newsletter-signUp-solution-with-HTML-and-CSS/)
