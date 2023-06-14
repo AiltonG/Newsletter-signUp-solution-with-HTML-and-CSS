@@ -12,9 +12,8 @@ Users should be able to:
 ##
 ### Screenshot
 
-![](./screenshot.jpg)
 ##
 ### Links
 
 - Solution URL: [https://solution-url.com](https://www.frontendmentor.io/solutions/newsletter-signup-solution-with-html-and-css-6yQpXB6a7Q)
-- Live Site URL: [https://live-site-url.com](https://ailtong.github.io/Newsletter-signUp-solution-with-HTML-and-CSS/)
+- Live Site URL: [https://live-site-url.com](https://ailtong.github.io/interactive-pricing-component/)
